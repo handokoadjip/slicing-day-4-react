@@ -1,4 +1,4 @@
-# Day 4: Lombok
+# Day 4: MY DREAM TRAVEL BLOG
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/slicing-day-4-react)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/slicing-day-4-react)
